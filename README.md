@@ -1,10 +1,10 @@
 mitmproxy-scripts
 =================
 
-Mobile app network request auditing and debugging scripts
+Network request auditing and debugging scripts
 
 http_audit
-==========
+----------
 
 Logs and counts non-HTTPS requests.
 
